@@ -1,0 +1,8 @@
+{
+    "learning_rate": 0.005,
+    "feature_fraction": 0.9,
+    "bagging_fraction": 0.7,
+    "bagging_freq": 10,
+    "max_depth": 8,
+    "num_iterations": 100
+}
